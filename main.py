@@ -1,3 +1,6 @@
+''' 
+Simple IP address calculator. The inputs are the IP and the subnet mask. 
+The outputs are the IP subnet, the range of usable IPs and the IP broadcast.
 '''
 
 from tkinter import *
