@@ -194,13 +194,13 @@ def returning():
             
     processing()
                               
-            
+def button_click(number):
+    current = entryIP.get()
+    entryIP.delete(0,END)
+    entryIP.insert(0,str(current) + str(number))            
 
-########  Begin  ########
 
-
-#List of the possible subnet masks
-
+    
 SUBLIST = ['255.0.0.0',
            '255.128.0.0',
            '255.192.0.0',
