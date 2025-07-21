@@ -265,7 +265,7 @@ button5.grid(row =  3, column =1)
 button6.grid(row =  3, column =2)
 button7.grid(row = 2 , column =0)
 button8.grid(row =  2, column =1)
-button9.grid(row = 2 , column =2)
+button9.grid(row = 2 , column =2)o
 button0.grid(row =  5, column =0)
 buttonClear.grid(row= 5, column = 1,columnspan = 2)
 buttondot.grid(row = 2, column = 3)
